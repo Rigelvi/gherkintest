@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../react-starter-kit/.github"
+		},
+		{
+			"path": "../react-starter-kit/.vscode"
+		},
+		{
+			"path": "../react-starter-kit/.yarn"
+		},
+		{
+			"path": "../react-starter-kit/app"
+		},
+		{
+			"path": "../react-starter-kit/edge"
+		},
+		{
+			"path": "../react-starter-kit/env"
+		},
+		{
+			"path": "../react-starter-kit/scripts"
+		}
+	],
+	"settings": {}
+}
